@@ -1,2 +1,2 @@
 # Portfolio_av
-Hey , this is my portfolio project in which we can simply introduce our social account to get contct by anty one with this portfolio
+Hey programmers, This is my portfolio project in which we can link social account to get an organised and cool way to represent our contact info.
